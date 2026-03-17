@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 25, 2019, 9:11:41 PM
+    Author     : Acer
+*/
+table tr th{
+    background: greenyellow;
+    color:red;
+    text-align: center;
+    height:50px;
+    width:200px;
+    border:1px solid black;
+}
+table tr td{
+    background: whitesmoke;
+    color:green;
+    text-align: center;
+    height:38px;
+    border:1px solid black;
+}
+
